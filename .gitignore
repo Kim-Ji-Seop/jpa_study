@@ -1,6 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 
-
 .gradle
 .idea
 
@@ -8,3 +7,11 @@ application-real-oauth.properties
 
 build
 out
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
